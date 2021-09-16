@@ -1,0 +1,204 @@
+1 Christian McCaffrey RB CAR 9.8
+2 Dalvin Cook RB MIN 7
+3 Alvin Kamara RB NO 7
+4 Ezekiel Elliott RB DAL 7.2
+5 Derrick Henry RB TEN 6.3
+6 Davante Adams WR GB 6.1
+7 Tyreek Hill WR KC 5.4
+8 Travis Kelce TE KC 5.9
+9 Austin Ekelera RB LAC 6.8
+10 Aaron Jones RB GB 5.6
+11 Saquon Barkley RB NYG 5.4
+12 Stefon Diggs WR BUF 5.6
+13 DeAndre Hopkins WR ARI 4.6
+14 Nick Chubb RB CLE 5.5
+15 Calvin Ridley WR ATL 4.7
+16 Jonathan Taylor RB IND 5.5
+17 Patrick Mahomes II QB KC 5.7
+18 Justin Jefferson WR MIN 4.7
+19 Antonio Gibson RB WAS 5.4
+20 Joe Mixon RB CIN 5.2
+21 D.K. Metcalf WR SEA 4.1
+22 A.J. Brown WR TEN 4.6
+23 Najee Harris RB PIT 4.3
+24 Clyde Edwards-Helaire RB KC 4.8
+25 Keenan Allen WR LAC 4
+26 D’Andre Swift RB DET 4.8
+27 David Montgomery RB CHI 4.4
+28 Allen Robinson II WR CHI 4.1
+29 Terry McLaurin WR WAS 3.9
+30 Darren Waller TE LV 5.6
+31 CeeDee Lamb WR DAL 4
+32 Chris Carson RB SEA 4.4
+33 Robert Woods WR LAR 3.3
+34 James Robinson RB JAC 4
+35 Amari Cooper WR DAL 3.2
+36 Josh Allen QB BUF 4.1
+37 Miles Sanders RB PHI 3.2
+38 Chris Godwin WR TB 3
+39 Mike Evans WR TB 2.8
+40 Cooper Kupp WR LAR 3
+41 Josh Jacobs RB LV 3.7
+42 Kyler Murray QB ARI 4.3
+43 Lamar Jackson QB BAL 4.1
+44 D.J. Moore WR CAR 2.9
+45 Darrell Henderson RB LAR 3.9
+46 Julio Jones WR TEN 3.1
+47 Diontae Johnson WR PIT 2.5
+48 Tyler Lockett WR SEA 2.8
+49 Tee Higgins WR CIN 2.5
+50 George Kittle TE SF 3.3
+Rk. Player Pos. Team WAR
+51 Adam Thielen WR MIN 2.7
+52 T.J. Hockenson TE DET 3.4
+53 Brandon Aiyuk WR SF 2.6
+54 Mike Davis RB ATL 3.9
+55 Myles Gaskin RB MIA 3.3
+56 Kareem Hunt RB CLE 3.6
+57 Dak Prescott QB DAL 3.9
+58 Chase Claypool WR PIT 2
+59 Jerry Jeudy WR DEN 1.8
+60 Gus Edwards RB BAL 2.9
+61 Chase Edmonds RB ARI 3
+62 Kyle Pitts TE ATL 3.3
+63 Russell Wilson QB SEA 3.5
+64 JuJu Smith-Schuster WR PIT 1.8
+65 Damien Harris RB NE 3
+66 Javonte Williams RB DEN 2.9
+67 Raheem Mostert RB SF 2.5
+68 Aaron Rodgers QB GB 3.2
+69 Odell Beckham Jr. WR CLE 2.2
+70 Mark Andrews TE BAL 2.7
+71 Justin Herbert QB LAC 3
+72 Noah Fant TE DEN 2.3
+73 Los Angeles Rams DST LAR 2.3
+74 Robby Anderson WR CAR 2
+75 Tom Brady QB TB 2.8
+76 Ryan Tannehill QB TEN 2.1
+77 Kenny Golladay WR NYG 1.7
+78 Ja’Marr Chase WR CIN 1.5
+79 Tyler Boyd WR CIN 1.4
+80 Courtland Sutton WR DEN 1.5
+81 Brandin Cooks WR HOU 1.4
+82 Trey Sermon RB SF 2.7
+83 Jalen Hurts QB PHI 1.8
+84 Deebo Samuel WR SF 1.2
+85 Corey Davis WR NYJ 1.2
+86 Melvin Gordon III RB DEN 2.7
+87 Laviska Shenault Jr. WR JAC 0.9
+88 Will Fuller V WR MIA 1
+89 Michael Carter RB NYJ 2.5
+90 Ronald Jones II RB TB 2.3
+91 Nyheim Hines RB IND 2
+92 James Conner RB ARI 2.1
+93 Kenyan Drake RB LV 1.6
+94 Zack Moss RB BUF 1.9
+95 D.J. Chark Jr. WR JAC 0.8
+96 Jamaal Williams RB DET 1.5
+97 Antonio Brown WR TB 0.7
+98 DeVonta Smith WR PHI 0.6
+99 Leonard Fournette RB TB 1.6
+100 AJ Dillon RB GB 1.5
+ABCDE
+Rk. Player Pos. Team WAR
+101 Jarvis Landry WR CLE 0.6
+102 Curtis Samuel WR WAS 0.4
+103 Mike Williams WR LAC 0.1
+104 Devin Singletary RB BUF 1.4
+105 Michael Gallup WR DAL 0
+106 Marvin Jones Jr. WR JAC 0.1
+107 Michael Pittman Jr. WR IND 0.1
+108 Tony Pollard RB DAL 1.4
+109 David Johnson RB HOU 1.1
+110 J.D. McKissic RB WAS 1.2
+111 James White RB NE 1.1
+112 Logan Thomas TE WAS 2
+113 Darnell Mooney WR CHI 0.2
+114 Phillip Lindsay RB HOU 0.9
+115 Sony Michel RB LAR 0.9
+116 Michael Thomas WR NO 0.2
+117 Jaylen Waddle WR MIA 0.4
+118 DeVante Parker WR MIA 0.5
+119 Giovani Bernard RB TB 0.6
+120 Latavius Murray RB NO 0.6
+121 Marquise Brown WR BAL 0.7
+122 Elijah Moore WR NYJ 0.7
+123 Alexander Mattison RB MIN 0.3
+124 Tevin Coleman RB NYJ 0.3
+125 Rashaad Penny RB SEA 0.2
+126 Tarik Cohen RB CHI 0.1
+127 Russell Gage WR ATL 0.8
+128 Darrel Williams RB KC 0.1
+129 Carlos Hyde RB JAC 0.3
+130 Mecole Hardman WR KC 1
+131 Pittsburgh Steelers DST PIT 2.1
+132 Malcolm Brown RB MIA 0.5
+133 Baltimore Ravens DST BAL 1.9
+134 Cole Beasley WR BUF 0.9
+135 Dallas Goedert TE PHI 2.1
+136 Kenneth Gainwell RB PHI 0.5
+137 Sterling Shepard WR NYG 1.3
+138 Tyler Higbee TE LAR 1.9
+139 Henry Ruggs III WR LV 1.8
+140 Robert Tonyan TE GB 1.8
+141 Salvon Ahmed RB MIA 0.6
+142 Mike Gesicki TE MIA 1.3
+143 Jakobi Meyers WR NE 1.9
+144 Nelson Agholor WR NE 1.9
+145 Darrynton Evans RB TEN 0.7
+146 Jalen Reagor WR PHI 2.1
+147 Rhamondre Stevenson RB NE 0.7
+148 T.Y. Hilton WR IND 2.1
+149 Washington Football Team DST WAS 1.6
+150 Tampa Bay Buccaneers DST TB 1.4
+Rk. Player Pos. Team WAR
+151 Damien Williams RB CHI 1
+152 Rondale Moore WR ARI 2.7
+153 Matthew Stafford QB LAR 1.5
+154 Jonnu Smith TE NE 1.3
+155 Marlon Mack RB IND 0.9
+156 Chuba Hubbard RB CAR 1
+157 Evan Engram TE NYG 1.1
+158 Justin Jackson RB LAC 0.9
+159 Boston Scott RB PHI 1
+160 Mark Ingram II RB HOU 1
+161 Jamison Crowder WR NYJ 2.4
+162 Joshua Kelley RB LAC 0.8
+163 Ty Johnson RB NYJ 1
+164 Jerick McKinnon RB KC 1
+165 Irv Smith Jr. TE MIN 0.7
+166 Tre’Quan Smith WR NO 2.7
+167 Devontae Booker RB NYG 0.9
+168 Joe Burrow QB CIN 1.5
+169 Benny Snell Jr. RB PIT 1
+170 San Francisco 49ers DST SF 1.3
+171 Indianapolis Colts DST IND 1.2
+172 New England Patriots DST NE 1.1
+173 Rob Gronkowski TE TB 0
+174 Rashod Bateman WR BAL 2.4
+175 Buffalo Bills DST BUF 1
+176 Justin Tucker K BAL 1.7
+177 Harrison Butker K KC 1.5
+178 Kansas City Chiefs DST KC 0.8
+179 Samaje Perine RB CIN 0.9
+180 La’Mical Perine RB NYJ 1
+181 Younghoe Koo K ATL 1.3
+182 Greg Zuerlein K DAL 1.1
+183 Jason Sanders K MIA 1
+184 New Orleans Saints DST NO 0.8
+185 Miami Dolphins DST MIA 0.8
+186 Matt Prater K ARI 0.9
+187 Tyler Bass K BUF 0.9
+188 Rodrigo Blankenship K IND 0.8
+189 Robbie Gould K SF 0.8
+190 Ryan Succop K TB 0.6
+191 Jason Myers K SEA 0.5
+192 Mason Crosby K GB 0.5
+193 Graham Gano K NYG 0.4
+194 Darrel Williams RB KC 0.5
+195 Cairo Santos K CHI 0.5
+196 Cody Parkey K CLE 0.5
+197 Salvon Ahmed RB MIA 0.5
+198 Marquise Brown WR BAL 0.5
+199 Hunter Henry TE NE 0.6
+200 Darrynton Evans RB TEN 0.6
