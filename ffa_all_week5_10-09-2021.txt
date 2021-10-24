@@ -1,0 +1,226 @@
+Player	Team	Position	Floor	Mean	Ceiling	SD	Risk	"Drop Off"	Tier	ADP
+Josh Allen	BUF	QB	23.2	24.2	25.1	0.751	2.97	0.195	1
+Lamar Jackson	BAL	QB	22.6	24	25.3	1.33	3.79	0.131	1
+Kyler Murray	ARI	QB	22.1	23.8	26.8	1.84	4.51	0.454	1
+Patrick Mahomes	KC	QB	22	23.4	26.3	1.71	4.32	1.31	2
+Tom Brady	TB	QB	19.9	22.1	24.3	1.88	5.24	0.752	3
+Dak Prescott	DAL	QB	19.1	21.3	22.6	1.3	4.05	0.48	3
+Kirk Cousins	MIN	QB	18.2	20.8	23.8	1.95	5.52	0.0553	3
+Jalen Hurts	PHI	QB	19.3	20.8	22.5	1.14	4.6	0.409	4
+Russell Wilson	SEA	QB	19.5	20.4	21.1	0.587	3.53	0.129	4
+Justin Herbert	LAC	QB	18.3	20.2	21	1.06	4.48	0.00975	4
+Daniel Jones	NYG	QB	18.4	20.2	21.9	1.33	4.87	0.0624	4
+Sam Darnold	CAR	QB	18.8	20.2	21.1	1.03	4.35	0.0132	4
+Aaron Rodgers	GB	QB	19.2	20.2	20.8	0.625	4.06	0.352	4
+Derrick Henry	TEN	RB	16.8	20.2	22.4	1.99	4.29	2.49	1
+Ryan Tannehill	TEN	QB	16.6	19.8	21.1	1.84	5.33	0.352	4
+Matthew Stafford	LAR	QB	17.4	19.5	20.7	1.3	4.28	0.41	5
+Derek Carr	LVR	QB	18	19.1	20.4	0.982	4.41	0.191	5
+Trey Lance	SF	QB	13	18.9	23.4	4.07	10.3	0.635	5
+Joe Burrow	CIN	QB	16.5	18.2	19.6	1.15	5.1	0.26	6
+Davante Adams	GB	WR	15.7	18.1	19.9	1.74	3.67	0.53	1
+Taylor Heinicke	WAS	QB	15.3	18	19.9	1.74	4.6	0.0702	6
+Matt Ryan	ATL	QB	16.7	17.9	19.3	1.11	5.67	0.243	6
+Alvin Kamara	NO	RB	16.6	17.8	19.7	1.21	3.64	0.872	1
+Mac Jones	NE	QB	16.1	17.7	19	1.21	5.03	0.078	6
+Trevor Lawrence	JAC	QB	16.1	17.6	19.2	1.33	4.82	0.0471	6
+Tyreek Hill	KC	WR	15.9	17.6	19.2	1.4	3.2	0.502	1
+Jared Goff	DET	QB	15.1	17.5	19.4	1.62	5.44	1.62	7
+Cooper Kupp	LAR	WR	15	17.1	18.8	1.65	3.77	0.326	1
+Aaron Jones	GB	RB	16.3	16.9	17.4	0.449	2.74	0.497	2
+Justin Jefferson	MIN	WR	14.5	16.8	18.2	1.49	3.4	0.516	2
+Austin Ekeler	LAC	RB	14.3	16.4	19.2	1.83	4.51	0.0914	2
+Saquon Barkley	NYG	RB	13.1	16.3	18.7	2.02	4.69	0.0798	2
+Christian McCaffrey	CAR	RB		16.2			16.7	0.644	2
+D.J. Moore	CAR	WR	14.4	16.2	18.2	1.76	3.89	0.336	2
+Travis Kelce	KC	TE	14.1	16	17.6	1.4	3.69	1.7	1
+Baker Mayfield	CLE	QB	14.9	15.9	18.4	1.55	5.38	0.0754	7
+Stefon Diggs	BUF	WR	14.5	15.9	19.2	2.14	4.8	0.45	2
+Jameis Winston	NO	QB	13.3	15.8	18.3	1.95	5.2	0.494	8
+Ezekiel Elliott	DAL	RB	13.5	15.6	16.8	1.15	3.68	0.294	3
+Deebo Samuel	SF	WR	13.3	15.5	18	1.74	4.34	0.43	2
+Teddy Bridgewater	DEN	QB	14.1	15.3	16.1	0.885	5.94	0.153	8
+Najee Harris	PIT	RB	12.7	15.3	18.8	2.28	5.04	0.121	3
+Carson Wentz	IND	QB	13.7	15.2	16.5	1.24	4.31	0.0688	8
+James Robinson	JAC	RB	13.8	15.2	17.2	1.26	3.83	0.486	3
+Zach Wilson	NYJ	QB	13.4	15.1	17.3	1.55	5.76	0.351	8
+Chris Godwin	TB	WR	12.7	15	18	2.17	5.16	0.267	3
+Justin Fields	CHI	QB	10.8	14.8	17	2.53	6.52	0.0711	8
+Terry McLaurin	WAS	WR	12.3	14.8	17.3	2.3	5.23	0.29	3
+Ben Roethlisberger	PIT	QB	12.6	14.7	17.5	1.94	4.98	0.313	9
+D'Andre Swift	DET	RB	13.3	14.7	17.8	1.84	4.51	0.505	3
+Adam Thielen	MIN	WR	11.5	14.5	16.8	2.12	4.99	0.0586	3
+Jacoby Brissett	MIA	QB	12.8	14.4	16.4	1.54	6.09	2.28	10
+Tyler Lockett	SEA	WR	12	14.4	18.6	2.86	6.58	0.266	3
+Darren Waller	LVR	TE	12.5	14.3	16.6	1.7	4.07	2.79	2
+Nick Chubb	CLE	RB	12.6	14.2	16.9	1.66	4.44	0.381	4
+Mike Evans	TB	WR	11.8	14.2	17.4	2.31	5.62	0.112	3
+DeAndre Hopkins	ARI	WR	13	14	14.8	0.682	2.56	0.131	3
+Keenan Allen	LAC	WR	11.8	13.9	18.9	3.24	7.26	0.00143	3
+CeeDee Lamb	DAL	WR	11.9	13.9	17.3	2.32	5.37	0.062	3
+Jonathan Taylor	IND	RB	12	13.8	17	2.25	5.16	0.0774	4
+Ja'Marr Chase	CIN	WR	11.9	13.8	16.4	1.93	4.89	0.0433	3
+Diontae Johnson	PIT	WR	11.1	13.8	16.3	2.25	5.19	0.28	4
+Damien Williams	CHI	RB	11.6	13.7	15.8	2.02	4.91	0.0271	4
+Darrell Henderson	LAR	RB	11.9	13.7	16.1	1.56	4.26	0.328	4
+Mike Williams	LAC	WR	11	13.5	16.7	2.4	5.59	0.0294	4
+Marquise Brown	BAL	WR	9.83	13.5	17	2.72	6.51	0.0497	4
+DK Metcalf	SEA	WR	10.1	13.4	16.1	2.19	4.98	0.111	4
+Leonard Fournette	TB	RB	11.8	13.3	16.3	1.93	5.08	0.0577	4
+Dalvin Cook	MIN	RB	1.45	13.3	19.5	7.89	11.8	0.731	5
+A.J. Brown	TEN	WR	12.2	13.3	15.1	1.37	12.9	0.386	4
+Cordarrelle Patterson	ATL	WR	11.1	12.9	16.9	2.87	6.44	0.141	4
+Cordarrelle Patterson	ATL	WR	11.1	12.9	16.9	2.87	13.5	0.141	4
+Marvin Jones	JAC	WR	11	12.8	15.5	1.81	4.9	0.209	4
+Antonio Gibson	WAS	RB	10.8	12.6	15.7	1.95	4.72	0.0626	5
+Amari Cooper	DAL	WR	9.49	12.6	14.3	1.87	5.08	0.123	4
+Clyde Edwards-Helaire	KC	RB	10.9	12.5	15.3	1.86	4.68	0.0301	5
+Mike Davis	ATL	RB	9.59	12.5	15.1	2.46	5.43	0.332	5
+Corey Davis	NYJ	WR	10.3	12.5	15	1.87	4.72	0.214	5
+Kenny Golladay	NYG	WR	10	12.3	15.5	2.24	5.5	0.119	5
+Davis Mills	HOU	QB	9.99	12.1	14.6	2.13	4.5	5.46	11
+Cordarrelle Patterson	ATL	RB	11.9	12.1	12.5	0.346	2.84	0.409	5
+Cordarrelle Patterson	ATL	RB	11.9	12.1	12.5	0.346	8.22	0.409	5
+Robert Woods	LAR	WR	9.77	12.1	16	2.29	5.87	0.0716	5
+Tyler Boyd	CIN	WR	10.1	12.1	16.1	2.77	6.75	0.136	5
+Brandin Cooks	HOU	WR	9.18	11.9	14.4	1.82	4.81	0.174	5
+Allen Robinson	CHI	WR	9.64	11.8	15.3	2.37	5.94	0.0237	5
+Damien Harris	NE	RB	9.91	11.7	15.6	2.57	5.69	0.292	6
+Emmanuel Sanders	BUF	WR	10	11.7	15.3	2.38	5.82	0.0185	5
+Jakobi Meyers	NE	WR	8.33	11.7	14.6	2.51	6.51	0.253	5
+T.J. Hockenson	DET	TE	9.34	11.5	14.5	2.2	5	0.358	3
+Laviska Shenault	JAC	WR	9.47	11.5	15.8	2.8	7.01	0.125	5
+Josh Jacobs	LVR	RB	9.05	11.4	13.4	1.79	4.72	0.0653	6
+Melvin Gordon	DEN	RB	9.1	11.4	15.3	2.37	5.13	0.139	6
+Michael Pittman	IND	WR	9.5	11.3	15	2.46	6.06	0.0542	5
+Odell Beckham	CLE	WR	8.9	11.3	16	3.13	7.67	0.326	6
+Chuba Hubbard	CAR	RB	9.22	11.2	12.7	1.51	5.06	0.15	6
+Alex Collins	SEA	RB	5.26	11.1	13.3	3.5	7.45	0.454	6
+Mark Andrews	BAL	TE	8.53	11.1	15.1	2.44	5.31	1.5	4
+DeVonta Smith	PHI	WR	8.84	11	15.3	2.89	6.62	0.531	6
+Miles Sanders	PHI	RB	9.19	10.6	11.7	1.06	3.82	0.144	6
+Zack Moss	BUF	RB	6.85	10.5	15.3	3.4	6.69	0.103	7
+Joe Mixon	CIN	RB	8.25	10.4	13	2.24	10.5	0.0331	7
+Hunter Renfrow	LVR	WR	8.44	10.4	14.3	2.5	6.05	0.0569	6
+Courtland Sutton	DEN	WR	9.68	10.4	10.8	0.493	2.29	0.0554	6
+Kareem Hunt	CLE	RB	9.25	10.3	11.7	0.862	3.73	0.0122	7
+Elijah Mitchell	SF	RB	6.94	10.3	13.6	2.89	8.63	0.0811	7
+Alexander Mattison	MIN	RB	5.94	10.3	17	4.68	8.46	0.0629	7
+Antonio Brown	TB	WR	7.34	10.3	11.9	2.04	5.13	0.216	6
+Latavius Murray	BAL	RB	7.5	10.2	14.7	3.02	6.34	0.279	7
+Tee Higgins	CIN	WR	6.51	10.1	11.9	2.38	7.98	0.00895	6
+DeVante Parker	MIA	WR	9.08	10.1	11.5	0.968	3.44	0.351	7
+Chase Edmonds	ARI	RB	5.96	9.91	12	2.46	5.39	0.0268	7
+Jamaal Williams	DET	RB	8.27	9.88	11.3	1.2	3.97	0.782	8
+Chase Claypool	PIT	WR	8.61	9.74	10.4	0.877	9.22	0.0511	7
+Cole Beasley	BUF	WR	8.31	9.69	10.6	0.949	2.81	0.0607	7
+Dalton Schultz	DAL	TE	7.98	9.63	11	1.2	3.89	0.109	4
+Henry Ruggs	LVR	WR	8.48	9.63	11.3	1.12	3.32	0.0407	7
+Jaylen Waddle	MIA	WR	8.96	9.59	10.2	0.528	2.18	0.0739	7
+Noah Fant	DEN	TE	7.64	9.53	12.6	1.82	4.76	0.0611	4
+Jamison Crowder	NYJ	WR	6.62	9.51	11.7	2.34	5.87	0.0755	7
+Mike Gesicki	MIA	TE	6.98	9.46	13.5	2.44	5.5	0.146	4
+A.J. Green	ARI	WR	7.41	9.44	12.6	2.14	5.35	0.0181	7
+Randall Cobb	GB	WR	7.44	9.42	13.6	2.72	7.57	0.32	7
+Kyle Pitts	ATL	TE	7.74	9.32	10.8	1.15	3.73	0.141	4
+Dallas Goedert	PHI	TE	6.85	9.18	13.1	2.29	5.41	0.524	5
+Michael Carter	NYJ	RB	7.93	9.1	10	0.998	3.82	0.136	8
+Robby Anderson	CAR	WR	7.41	9.1	10.2	1.15	3.32	0.00929	7
+Tim Patrick	DEN	WR	8.34	9.09	9.87	0.698	2.64	0.594	7
+Tony Pollard	DAL	RB	7.1	8.96	11.4	1.79	4.45	0.217	8
+James Conner	ARI	RB	6.55	8.75	11.3	1.97	5.05	0.176	8
+Tyler Higbee	LAR	TE	6.9	8.65	12.7	2.36	5.32	0.597	6
+Devin Singletary	BUF	RB	6.83	8.57	10.3	1.38	4.16	0.497	8
+Darnell Mooney	CHI	WR	7.7	8.5	9.36	0.679	2.33	0.0382	7
+JuJu Smith-Schuster	PIT	WR	7.77	8.46	9.1	0.624	2.75	0.0993	8
+Marquez Callaway	NO	WR	6.07	8.36	11	1.87	5.43	0.206	8
+Patriots	NE	DST	7.51	8.15	8.96	0.647	1.88	0.473	1
+Nelson Agholor	NE	WR	5.19	8.15	9.65	2.07	5.41	0.101	8
+Javonte Williams	DEN	RB	6.98	8.07	9.27	0.977	3.54	0.00528	8
+Myles Gaskin	MIA	RB	6.91	8.07	8.93	0.97	4	0.485	9
+Hunter Henry	NE	TE	5.72	8.06	11.3	2.03	4.84	0.792	6
+Christian Kirk	ARI	WR	5.9	8.05	9.77	1.6	4.12	0.0674	8
+Kadarius Toney	NYG	WR	7.42	7.98	8.8	0.565	3.87	0.0736	8
+Quintez Cephus	DET	WR	6.46	7.91	8.87	0.985	3.18	0.0585	8
+Brandon Aiyuk	SF	WR	6.34	7.85	8.66	1.02	3.65	0.0461	8
+Curtis Samuel	WAS	WR	5.77	7.8	10.5	1.86	5.44	0.325	8
+Buccaneers	TB	DST	6.46	7.68	9.31	1.16	3.53	0.215	2
+J.D. McKissic	WAS	RB	6.65	7.58	9.26	1.07	3.78	0.394	9
+Olamide Zaccheaus	ATL	WR	5.63	7.48	8.87	1.28	6.38	0.0232	8
+Saints	NO	DST	5.98	7.47	9.27	1.23	5.27	0.0624	2
+Sammy Watkins	BAL	WR	5.61	7.46	8.91	1.24	4.15	0.257	8
+Falcons	ATL	DST	5.91	7.4	8.96	1.55	7.05	0.116	3
+Cardinals	ARI	DST	6.76	7.29	8.25	0.678	3.58	0.158	4
+Dawson Knox	BUF	TE	6.02	7.26	8.48	1.01	3.74	0.115	6
+Van Jefferson	LAR	WR	3.69	7.2	9.35	2.41	5.7	0.0104	8
+Nyheim Hines	IND	RB	5.96	7.19	8.46	1.15	4	0.0687	9
+Kalif Raymond	DET	WR	4.61	7.19	9.31	1.89	5.87	0.153	9
+Jared Cook	LAC	TE	4.33	7.15	8.45	1.61	4.55	0.164	7
+Cowboys	DAL	DST	6.44	7.13	8.49	0.831	3.85	0.0336	4
+Kenneth Gainwell	PHI	RB	5.14	7.12	9.4	1.71	4.5	0.104	9
+Panthers	CAR	DST	5.47	7.1	9.17	1.44	6.63	0.0339	5
+Steelers	PIT	DST	5.84	7.06	8.25	1.01	4.11	0.0789	6
+Trey Sermon	SF	RB	3.84	7.02	10.7	3.37	7.17	0.0996	9
+Ravens	BAL	DST	6.43	6.98	7.58	0.488	3.06	0.0832	6
+Tyler Conklin	MIN	TE	6.11	6.98	7.9	0.806	3.27	0.111	7
+Kenyan Drake	LVR	RB	5.82	6.92	7.76	0.775	3.47	0.243	10
+Raiders	LVR	DST	4.22	6.9	8.61	2.42	11.8	0.24	7
+Robert Tonyan	GB	TE	5.83	6.87	8.49	1.05	3.9	0.0439	7
+Ryan Izzo	FA	TE		6.83				0.241	7
+David Johnson	HOU	RB	5.94	6.67	7.99	0.826	3.53	0.0463	10
+Rams	LAR	DST	6.28	6.66	6.89	0.245	3.7	0.0021	7
+Eagles	PHI	DST	6.16	6.66	7.18	0.457	4.98	0.0535	7
+Samaje Perine	CIN	RB	3.45	6.63	8.54	2.1	6.71	0.279	10
+Vikings	MIN	DST	5.15	6.61	7.84	1.04	4.61	0.00451	7
+Packers	GB	DST	5.54	6.6	7.88	1.16	5.96	0.187	8
+Evan Engram	NYG	TE	5.5	6.59	7.38	0.803	3.49	0.439	7
+Broncos	DEN	DST	5.68	6.41	7.27	0.686	3.9	0.0171	8
+Titans	TEN	DST	5.24	6.4	7.75	1.12	6.86	0.0305	9
+Bears	CHI	DST	5.84	6.37	6.89	0.5	2.63	0.102	10
+Mark Ingram	HOU	RB	2.92	6.35	9.22	2.5	5.41	1.11	11
+Browns	CLE	DST	4.7	6.26	8.63	1.54	6.87	0.0933	11
+Colts	IND	DST	5.01	6.17	7.81	1.15	4.93	0.136	12
+Austin Hooper	CLE	TE	3.82	6.15	7.6	1.56	4.45	0.262	8
+Redskins	WAS	DST	4.79	6.03	6.69	0.892	4.44	0.115	13
+Bills	BUF	DST	4	5.92	8.05	1.51	9.38	0.235	14
+Anthony Firkser	TEN	TE	3.94	5.89	7.42	1.46	4.47	0.0301	8
+Zach Ertz	PHI	TE	4.53	5.86	7.53	1.16	3.94	0.0106	8
+Jonnu Smith	NE	TE	4.57	5.85	7.16	1.16	3.97	0.134	8
+C.J. Uzomah	CIN	TE	4.78	5.71	6.93	0.944	3.77	0.244	8
+49ers	SF	DST	3.69	5.68	7.34	1.59	6.33	0.0727	14
+Chargers	LAC	DST	5.25	5.61	6.09	0.421	2.64	0.114	15
+Texans	HOU	DST	5.09	5.5	6.23	0.46	6.13	0.0315	16
+Chiefs	KC	DST	3.82	5.47	6.12	0.979	4.88	0.0678	16
+Hayden Hurst	ATL	TE	4.02	5.47	6.67	1.16	5.46	0.202	8
+Jets	NYJ	DST	4.72	5.4	5.95	0.59	4.53	0.163	17
+Cameron Brate	TB	TE	3.91	5.27	6.55	1.16	3.93	0.0371	8
+Seahawks	SEA	DST	4.69	5.24	5.69	0.473	2.94	0.481	18
+Ronald Jones	TB	RB	1.38	5.24	7.98	2.75	5.72	0.00644	11
+Brandon Bolden	NE	RB	2.94	5.23	7.14	1.76	4.92	0.251	11
+Dan Arnold	JAC	TE	3.7	5.23	6.44	1.45	4.97	0.11	8
+Gerald Everett	SEA	TE		5.12				0.0224	8
+Maxx Williams	ARI	TE	3.97	5.1	5.61	0.645	3.19	0.023	8
+George Kittle	SF	TE	0.408	5.07	11.5	6.4	14.3	0.0126	8
+Blake Jarwin	DAL	TE	4.61	5.06	5.95	0.589	3.33	0.244	9
+Ty'Son Williams	BAL	RB	1.35	4.98	8.69	3.47	8.27	0.104	11
+Darrel Williams	KC	RB	3.32	4.88	6.1	1.1	4.23	0.00623	11
+AJ Dillon	GB	RB	3.74	4.87	5.85	0.835	3.59	0.225	11
+O.J. Howard	TB	TE	3.57	4.82	6.97	1.56	4.52	0.064	9
+Jaguars	JAC	DST	2.81	4.75	5.98	1.43	5.7	0.0731	19
+Charlie Woerner	SF	TE	1.5	4.75	7.96	4.7	13.6	0.174	9
+Giants	NYG	DST	4.11	4.68	5.54	0.706	4.25	0.0262	19
+Dolphins	MIA	DST	3.72	4.66	5.49	0.807	3.92	0.174	20
+Jeremy McNichols	TEN	RB	3.9	4.65	5.5	0.65	3.59	0.00691	11
+Sony Michel	LAR	RB	2.98	4.64	5.49	1.09	4.48	0.238	11
+Jack Doyle	IND	TE	3.63	4.58	5.84	0.917	3.86	0.0387	9
+Lions	DET	DST	2.85	4.48	5.84	1.29	5.01	0.242	21
+Giovani Bernard	TB	RB	2.57	4.4	5.46	1.28	6.92	0.0937	11
+Malcolm Brown	MIA	RB	2.07	4.31	5.87	1.59	4.74	0.0337	11
+Ty Montgomery	NO	RB	4.06	4.27	4.54	0.251	3.29	0.0153	11
+Wayne Gallman	ATL	RB	1.54	4.26	6.41	2.05	5.19	0.209	12
+Bengals	CIN	DST	2.96	4.24	5.68	1.08	4.68		
+Khalil Herbert	CHI	RB	1.63	4.05	6.47	2.11	5.35	0.106	12
+Ty Johnson	NYJ	RB	3.37	3.94	4.65	0.556	3.37	0.28	12
+Rodney Smith	CAR	RB	2.62	3.66	4.98	1.25	5.48	0.02	12
+J.J. Taylor	NE	RB	1.72	3.64	7.77	2.93	6.81	0.00613	12
+Kyle Juszczyk	SF	RB	1.31	3.64	4.98	1.64	4.9	0.0511	12
