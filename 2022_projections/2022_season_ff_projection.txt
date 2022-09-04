@@ -1,0 +1,151 @@
+Index	a	b	Position	Player	Team	Floor	Points	Ceiling	SD	Uncertainty	VOR	"Drop Off"	Tier	ADP	AAV
+1			RB	Jonathan Taylor	IND	263	301	332	22.8	37	150	30.3	1		
+2			RB	Derrick Henry	TEN	234	270	309	25.4	48	120	23.3	2		
+3			WR	Cooper Kupp	LAR	220	237	279	7.02	1	102	22.4	1		
+4			TE	Travis Kelce	KC	165	184	210	8.17	3	101	15.9	1		
+5			RB	Austin Ekeler	LAC	223	247	273	20.9	32	96.7	2.49	2		
+6			RB	Christian McCaffrey	CAR	225	245	311	12.4	3	94.2	10.2	3		
+7			TE	Mark Andrews	BAL	159	168	190	7.8	6	85	37.1	2		
+8			RB	Dalvin Cook	MIN	202	234	264	21.5	35	84	2.01	3		
+9			RB	Joe Mixon	CIN	212	232	249	13.2	7	82	12.6	4		
+10			QB	Josh Allen	BUF	371	383	403	12.4	1	80.8	24.7	1		
+11			WR	Justin Jefferson	MIN	199	215	234	15.1	24	79.3	7.2	1		
+12			WR	Ja'Marr Chase	CIN	197	208	242	4.87	1	72.1	0.186	1		
+13			WR	Deebo Samuel	SF	184	208	230	16.3	32	71.9	10.1	2		
+14			RB	Najee Harris	PIT	187	220	253	22.5	41	69.4	5.08	4		
+15			RB	Alvin Kamara	NO	197	215	235	5.21	1	64.3	5.27	4		
+16			WR	Davante Adams	LVR	175	198	220	12	14	61.8	10.8	3		
+17			RB	Nick Chubb	CLE	171	209	256	25.9	61	59	2.27	4		
+18			RB	Leonard Fournette	TB	194	207	221	10.5	6	56.8	2.12	5		
+19			QB	Patrick Mahomes	KC	341	358	372	17.5	14	56.1	17.2	1		
+20			RB	Saquon Barkley	NYG	188	205	235	16.4	28	54.7	1.46	5		
+21			RB	Aaron Jones	GB	175	204	233	28.2	70	53.2	5.08	5		
+22			WR	Stefon Diggs	BUF	162	187	203	20.5	45	51	0.191	3		
+23			WR	CeeDee Lamb	DAL	147	187	209	18.3	37	50.8	5.74	3		
+24			RB	James Conner	ARI	173	199	222	14.4	25	48.1	2.76	5		
+25			TE	Kyle Pitts	ATL	115	131	158	11.9	26	48	2.96	3		
+26			RB	Javonte Williams	DEN	186	196	225	5.49	1	45.4	1.81	5		
+27			WR	Mike Evans	TB	164	181	197	11.9	15	45	4.61	3		
+28			TE	Darren Waller	LVR	118	128	156	9.2	14	45	1.13	3		
+29			TE	George Kittle	SF	120	127	156	7.79	9	43.9	9.11	4		
+30			RB	D'Andre Swift	DET	162	194	237	23.2	54	43.6	4.56	6		
+31			WR	Tyreek Hill	MIA	164	176	196	8.16	3	40.4	5.65	4		
+32			RB	Ezekiel Elliott	DAL	166	189	214	16.4	31	39	0.442	6		
+33			QB	Justin Herbert	LAC	334	341	365	8.79	3	38.9	11	2		
+34			RB	David Montgomery	CHI	167	189	211	20	49	38.6	10.8	6		
+35			WR	A.J. Brown	PHI	149	171	198	13.9	30	34.8	6.8	4		
+36			TE	Dalton Schultz	DAL	106	118	132	8.8	23	34.8	2.69	4		
+37			TE	Dallas Goedert	PHI	99.3	115	130	13	43	32.1	8.73	5		
+38			WR	Tee Higgins	CIN	151	164	174	9.55	6	28	3.56	4		
+39			QB	Lamar Jackson	BAL	300	330	349	18.3	11	27.9	3.21	2		
+40			RB	Elijah Mitchell	SF	168	178	204	9.49	11	27.8	6.81	7		
+41			QB	Jalen Hurts	PHI	302	327	361	26.2	43	24.7	2.16	2		
+42			WR	Michael Pittman	IND	146	160	178	12	20	24.4	0.149	4		
+43			WR	Mike Williams	LAC	149	160	178	7.85	4	24.3	5.22	5		
+44			TE	Dawson Knox	BUF	94.3	107	121	13.9	57	23.3	6.08	5		
+45			QB	Kyler Murray	ARI	296	325	347	19.2	17	22.5	7.42	3		
+46			RB	Josh Jacobs	LVR	143	171	198	20.3	52	21	1.2	7		
+47			RB	Cam Akers	LAR	159	170	214	8.7	14	19.8	0.378	7		
+48			RB	Travis Etienne	JAC	149	170	189	22.8	62	19.4	4.04	7		
+49			WR	Brandin Cooks	HOU	144	155	165	9.9	23	19.1	1.65	5		
+50			WR	Gabriel Davis	BUF	136	153	171	17.1	54	17.4	0.25	5	
+51			TE	T.J. Hockenson	DET	89.4	101	123	6.74	11	17.3	1.79	6		
+52			WR	Keenan Allen	LAC	141	153	170	8.21	8	17.2	1.65	5		
+53			K	Justin Tucker	BAL	148	158	169	10	13	16	5.27	1		
+54			WR	DK Metcalf	SEA	141	151	170	9.75	18	15.5	2	5		
+55			TE	Zach Ertz	ARI	83.9	98.9	114	9.06	20	15.5	1.09	6		
+56			RB	Damien Harris	NE	141	166	197	16.8	42	15.4	1.62	7		
+57			QB	Tom Brady	TB	307	317	328	10.6	9	15.1	0.161	3		
+58			QB	Aaron Rodgers	GB	297	317	337	25.5	40	15	4.03	3		
+59			TE	Hunter Henry	NE	85.4	97.8	114	11.5	51	14.4	5.34	6		
+60			RB	J.K. Dobbins	BAL	145	164	197	17.6	46	13.7	1.45	7		
+61			WR	D.J. Moore	CAR	129	149	161	10.6	17	13.5	0.99	5		
+62			WR	Diontae Johnson	PIT	142	148	159	5.21	7	12.5	2.14	6		
+63			RB	Dameon Pierce	HOU	148	163	177	13.3	51	12.3	2.86	7		
+64			QB	Dak Prescott	DAL	289	313	335	20	29	10.9	10.9	3		
+65			K	Daniel Carlson	LVR	138	153	167	7.85	52	10.7	1.97	1		
+66			WR	Courtland Sutton	DEN	113	146	172	11.9	27	10.4	0.641	6		
+67			WR	Amari Cooper	CLE	125	145	165	18.8	62	9.73	0.174	6		
+68			WR	Terry McLaurin	WAS	122	145	170	11.3	21	9.55	1.7	6		
+69			RB	Rashaad Penny	SEA	129	160	199	30.4	85	9.44	1.5	7		
+70			TE	Mike Gesicki	MIA	79.5	92.5	105	12.9	66	9.05	2.73	7		
+71			K	Harrison Butker	KC	144	151	157	4.04	23	8.72	0.0459	1		
+72			K	Evan McPherson	CIN	137	151	165	15.1	97	8.67	0.827	1		
+73			RB	AJ Dillon	GB	144	158	185	11.1	18	7.94	1.61	8		
+74			WR	Jaylen Waddle	MIA	126	144	158	6.66	11	7.85	1.65	6		
+75			K	Matt Gay	LAR	136	150	160	6.77	26	7.85	2.14	1		
+76			RB	Miles Sanders	PHI	148	157	182	8.9	13	6.32	1.11	8		
+77			TE	Pat Freiermuth	PIT	77.6	89.7	114	10.1	29	6.32	1.26	7		
+78			WR	Michael Thomas	NO	124	142	163	12.4	46	6.2	0.828	6		
+79			DST	Bills	BUF	84.8	94.9	108	8.15	19	5.82	0.303	1		
+80			K	Tyler Bass	BUF	129	148	160	12.4	39	5.71	2	1		
+81			DST	Steelers	PIT	88.7	94.6	106	4.02	39	5.52	0.13	1		
+82			DST	Cowboys	DAL	84	94.5	100	7.12	45	5.39	0.116	1		
+83			WR	Darnell Mooney	CHI	134	141	164	7.36	13	5.38	1.54	6		
+84			DST	Rams	LAR	87.7	94.4	101	7.1	65	5.27	0.424	2		
+85			RB	Cordarrelle Patterson	ATL	143	156	167	10.8	27	5.22	0.214	8		
+86			TE	Noah Fant	SEA	74.5	88.5	102	16.5	80	5.06	0.731	7		
+87			RB	Devin Singletary	BUF	127	155	186	21.2	56	5	5	8		
+88			DST	Packers	GB	87.6	93.9	102	8.01	26	4.85	2.39	3		
+89			TE	Tyler Higbee	LAR	78.1	87.7	104	6.45	17	4.33	0.0311	7		
+90			TE	Irv Smith Jr.	MIN	83.2	87.7	89.3	1.44	1	4.3	1.12	7		
+91			WR	Jerry Jeudy	DEN	114	140	157	10.6	31	3.84	0.00589	6		
+92			WR	Amon-Ra St. Brown	DET	125	140	156	13.9	44	3.83	1.97	6		
+93			K	Greg Joseph	MIN	133	146	154	8.38	90	3.71	0.689	2		
+94			TE	David Njoku	CLE	80.5	86.6	105	5.35	40	3.17	0.255	7		
+95			K	Matt Prater	ARI	138	145	154	6.82	3	3.02	2.06	2		
+96			TE	Cole Kmet	CHI	70.6	86.3	101	9.93	37	2.92	2.87	7		
+97			DST	Dolphins	MIA	86.1	91.5	97.1	5.87	13	2.46	0.181	3		
+98			DST	Buccaneers	TB	80.7	91.4	95.3	3.48	1	2.28	0.628	4		
+99			WR	Allen Robinson	LAR	102	138	155	11.3	35	1.87	1.52	6		
+100			DST	Saints	NO	86.6	90.7	99.3	3.71	6	1.65	0.837	5	
+138			K	Dustin Hopkins	LAC	125	137	146	3.18	35	-5.8	2.89	3		
+139			TE	Evan Engram	JAC	61.5	77.2	92.9	17.8	86	-6.18	4.46	8		
+140			WR	Elijah Moore	NYJ	103	129	147	14.5	48	-6.4	2.63	7		
+141			DST	Redskins	WAS	77.3	82.7	87.6	4.28	61	-6.43	0.754	13		
+142			RB	Rhamondre Stevenson	NE	118	143	155	6.25	8	-7	1.68	8		
+143			DST	Chiefs	KC	77.7	81.9	85.8	2.37	42	-7.18	0.126	14		
+144			DST	Ravens	BAL	69.2	81.8	89.4	8.03	90	-7.31	0.535	14		
+145			DST	Cardinals	ARI	69.8	81.2	87.7	6.76	48	-7.84	1.08	15		
+146			RB	Tony Pollard	DAL	125	142	154	8.84	10	-8.68	0.221	8		
+147			K	Wil Lutz	NO	120	134	150	15.9	81	-8.69	0.931	3		
+148			RB	Chase Edmonds	MIA	122	142	171	10.6	24	-8.9	5.58	9		
+149			DST	Panthers	CAR	61.8	80.2	89.7	12.6	87	-8.92	2.09	16		
+150			WR	Christian Kirk	JAC	114	127	149	15.1	49	-9.03	1.76	7	
+188			K	Austin Seibert	DET	40.2	117	146	16	77	-25.9	1.66	6		
+189			TE	Adam Trautman	NO	39.9	57.1	74.9	12.6	83	-26.3	4.52	10		
+190			QB	Derek Carr	LVR	256	275	296	19.7	20	-26.9	11.6	5		
+191			WR	Michael Gallup	DAL	78	108	126	16.8	87	-27.5	0.448	8		
+192			K	Greg Zuerlein	NYJ	106	115	125	4.08	94	-27.6	4.06	6		
+193			WR	D.J. Chark	DET	71.8	108	145	38.8	96	-27.9	1.04	8		
+194			WR	Mecole Hardman	KC	89.6	107	148	9.4	70	-28.9	0.155	8		
+195			WR	Kadarius Toney	NYG	60	107	128	16	59	-29.1	1.01	8		
+196			WR	Jakobi Meyers	NE	91.4	106	122	12.9	58	-30.1	0.12	8		
+197			WR	Tyler Boyd	CIN	91.7	106	124	10.7	51	-30.2	0.114	8		
+198			WR	Treylon Burks	TEN	67.9	105	126	12	69	-30.3	0.005	8		
+199			WR	Russell Gage	TB	77.6	105	130	14.1	66	-30.3	0.673	9		
+200			TE	Daniel Bellinger	NYG	38.7	52.6	68.3	15.1	91	-30.8	0.654	10		
+238			RB	Nyheim Hines	IND	59.2	84.1	102	16.2	44	-66.3	0.458	12		
+239			QB	Justin Fields	CHI	202	236	270	37.9	69	-66.5	0.223	7		
+240			QB	Carson Wentz	WAS	208	236	257	24.1	71	-66.7	0.453	7		
+241			RB	Rex Burkhead	HOU	59.3	83.6	108	24.1	90	-66.8	3.07	12		
+242			QB	Mac Jones	NE	200	235	258	20.2	63	-67.2	4.51	7		
+243			WR	Romeo Doubs	GB	8.63	66.8	113	32.9	99	-69	3.42	12		
+244			RB	Mark Ingram	NO	45.7	80.6	96.7	14.5	69	-69.9	2.52	12		
+245			QB	Daniel Jones	NYG	202	231	255	26.4	83	-71.7	1.76	7		
+246			RB	Jeffery Wilson	SF	67.5	78.1	89	16.9	59	-72.4	1.51	12		
+247			WR	David Bell	CLE	30.4	63.3	108	39.8	97	-72.4	0	12		
+248			QB	Jared Goff	DET	199	229	256	24.5	74	-73.4	15.1	8		
+249			RB	Jerick McKinnon	KC	53.7	76.5	118	21.6	86	-73.9	2.19	13		
+250			RB	Rachaad White	TB	58.1	74.4	90.6	10.4	65	-76.1	1.33	13		
+270			RB	Ronald Jones	KC	18.7	45.1	78.7	24.5	96	-105	2.75	15		
+271			RB	Myles Gaskin	MIA	17.9	42.4	79.8	19.8	93	-108	1.14	15		
+272			RB	Hassan Haskins	TEN	19.6	41.2	79.2	16.1	83	-109	3.48	15		
+273			RB	Tyrion Davis-Price	SF	25.1	37.8	77.2	12.7	80	-113	0	15		
+274			QB	Mitchell Trubisky	PIT	121	186	243	19.3	51	-116	23.3	10		
+275			QB	Geno Smith	SEA	58.9	163	235	51.4	94	-139	29.3	11		
+276			QB	Jacoby Brissett	CLE	54.1	134	199	26.1	80	-169	21.3	12		
+277			QB	Drew Lock	SEA	28.6	112	197	96.5	99	-190	23.5	13		
+278			QB	Jimmy Garoppolo	SF	10.6	89	214	5.18	66	-213	1.22	13		
+279			QB	Kenny Pickett	PIT	45.4	87.7	127	46.6	91	-215	66.1	14		
+280			QB	Gardner Minshew	PHI	10.3	21.7	137	12.2	46	-281	0	14		
