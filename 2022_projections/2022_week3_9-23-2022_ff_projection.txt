@@ -49,7 +49,7 @@ Index	a	b	Position	Player	Team	Floor	Points	Ceiling	SD	Uncertainty	VOR	"Drop Off
 48			QB	Kyler Murray	ARI	14.5	18.3	20.1	1.21	50	1.62	0.0392	4
 49			RB	Javonte Williams	DEN	9.33	10.6	14.5	0.845	56	1.59	0.063	6
 50			QB	Matthew Stafford	LAR	17.6	18.3	19.1	0.683	15	1.58	1.58	5
- 		TE	Tyler Higbee	LAR	4.98	5.96	6.87	0.915	85	1.57	0.0276	5
+51			TE	Tyler Higbee	LAR	4.98	5.96	6.87	0.915	85	1.57	0.0276	5
 52			TE	Gerald Everett	LAC	5.78	5.93	9.86	0.145	9	1.55	0.5	5
 53			RB	Clyde Edwards-Helaire	KC	8.41	10.5	13	1.64	90	1.53	0.0915	6
 54			WR	Jaylen Waddle	MIA	8.68	9.4	12.7	0.0741	1	1.46	0.032	8
